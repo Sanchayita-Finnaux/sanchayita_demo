@@ -1,2 +1,4 @@
 # sanchayita_demo
-this is my first git demo.
+This is my first Git demo.
+<br>
+by Sanchayita Roy
